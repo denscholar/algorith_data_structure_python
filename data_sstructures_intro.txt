@@ -1,0 +1,26 @@
+Whats are data structures? They are different ways of storing data on your computer, that can be used effectively. 
+From software application performance point of view, the efficiency and the performance of sofeware depends on how the data is stored, organized and group together during programming execution. 
+We understand that we used data structured to make our application very efficient but the problem is that there are many differnt types of data structures. So which one should we choose?
+
+WHAT IS AN ALGORITHM?
+A set of steps to accomplish a task. Learning about different typees of algorithm and knowing when to apply them allows you to write time and memory efficient programs. there are two criteria to make good algoriths. 
+1. Correctness - algorythm solve the problem correctly.
+2. Efficincy -  it does it so efficinetly.
+
+WHY DATA STRUCTURES AND ALGORYTHMS ARE IMPORTANT
+As a software devloper of computer scientist, ourr responsibilities is to perform operations on data. We basically perform the following steps:
+- take data as an input
+- process it
+- give data as an information
+
+TYPES OF DATA STRUCTURES
+1. primitive and non-primitive
+PRIMITIVE: the s=data structures that are grouped in the programming language itself which are available to the programmer are reffered to the primitive data structures: They are integer, float, chracater, string and boolean. 
+
+NON-PRIMITIVE: they are refered to as user defined data structures.
+
+
+
+
+
+Algorithms can be classified based on the problem they are trying to solve such as sorting 
